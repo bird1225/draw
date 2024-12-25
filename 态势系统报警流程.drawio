@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YOid8Cb-hnMMPlVidly3-7" value="是否超过&lt;div&gt;【报警失效时间】&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YOid8Cb-hnMMPlVidly3-7" value="是否超过&lt;div&gt;【报警生效时间】&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="570" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YOid8Cb-hnMMPlVidly3-10" value="设置为【生效】状态&lt;br&gt;并将报警添加到待推送报警邮件列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
