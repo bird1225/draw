@@ -153,7 +153,7 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.693;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="AljZzZJW0XcGzfn0RQ-F-25" source="AljZzZJW0XcGzfn0RQ-F-32" target="AljZzZJW0XcGzfn0RQ-F-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-58" value="Nginx&lt;br&gt;{NG-Version}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-25">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-58" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-25">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-61" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-25">
@@ -349,7 +349,7 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.693;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="AljZzZJW0XcGzfn0RQ-F-75" source="AljZzZJW0XcGzfn0RQ-F-88" target="AljZzZJW0XcGzfn0RQ-F-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-104" value="Nginx&lt;br&gt;{NG-Version}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-75">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-104" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-75">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-105" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-75">
@@ -545,7 +545,7 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.693;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="AljZzZJW0XcGzfn0RQ-F-121" source="AljZzZJW0XcGzfn0RQ-F-134" target="AljZzZJW0XcGzfn0RQ-F-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-150" value="Nginx&lt;br&gt;{NG-Version}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-121">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-150" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-121">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-151" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-121">
@@ -760,7 +760,7 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.693;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="AljZzZJW0XcGzfn0RQ-F-178" source="AljZzZJW0XcGzfn0RQ-F-191" target="AljZzZJW0XcGzfn0RQ-F-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-207" value="Nginx&lt;br&gt;{NG-Version}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-178">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-207" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-178">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-208" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AljZzZJW0XcGzfn0RQ-F-178">
