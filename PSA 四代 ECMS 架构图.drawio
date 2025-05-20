@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="3ImLSYelry7E7eVT9qmC">
-    <mxGraphModel dx="3771" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-25" source="AljZzZJW0XcGzfn0RQ-F-29" target="AljZzZJW0XcGzfn0RQ-F-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-25" source="AljZzZJW0XcGzfn0RQ-F-29" target="AljZzZJW0XcGzfn0RQ-F-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-29" value="ISS-Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AljZzZJW0XcGzfn0RQ-F-25" vertex="1">
@@ -156,11 +153,8 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-58" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="AljZzZJW0XcGzfn0RQ-F-25" vertex="1">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-61" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-25" vertex="1">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-61" value="Leewell Data Transport Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-25" vertex="1">
           <mxGeometry x="53.75" y="50" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-62" value="Leewell Feature Data Handle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-25" vertex="1">
-          <mxGeometry x="53.75" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-65" value="" style="group" parent="AljZzZJW0XcGzfn0RQ-F-73" vertex="1" connectable="0">
           <mxGeometry x="668" y="180" width="130" height="270" as="geometry" />
@@ -235,9 +229,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-75" source="AljZzZJW0XcGzfn0RQ-F-83" target="AljZzZJW0XcGzfn0RQ-F-105" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-75" source="AljZzZJW0XcGzfn0RQ-F-83" target="AljZzZJW0XcGzfn0RQ-F-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-83" value="ISS-Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AljZzZJW0XcGzfn0RQ-F-75" vertex="1">
@@ -352,11 +343,8 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-104" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="AljZzZJW0XcGzfn0RQ-F-75" vertex="1">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-105" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-75" vertex="1">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-105" value="Leewell Data Transport Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-75" vertex="1">
           <mxGeometry x="53.75" y="50" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-106" value="Leewell Feature Data Handle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-75" vertex="1">
-          <mxGeometry x="53.75" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-107" value="" style="group" parent="AljZzZJW0XcGzfn0RQ-F-74" vertex="1" connectable="0">
           <mxGeometry x="668" y="180" width="130" height="270" as="geometry" />
@@ -431,9 +419,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-121" source="AljZzZJW0XcGzfn0RQ-F-129" target="AljZzZJW0XcGzfn0RQ-F-151" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-121" source="AljZzZJW0XcGzfn0RQ-F-129" target="AljZzZJW0XcGzfn0RQ-F-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-129" value="ISS-Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="AljZzZJW0XcGzfn0RQ-F-121" vertex="1">
@@ -548,11 +533,8 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-150" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="AljZzZJW0XcGzfn0RQ-F-121" vertex="1">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-151" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-121" vertex="1">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-151" value="Leewell Data Transport Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-121" vertex="1">
           <mxGeometry x="53.75" y="50" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-152" value="Leewell Feature Data Handle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-121" vertex="1">
-          <mxGeometry x="53.75" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-153" value="" style="group" parent="AljZzZJW0XcGzfn0RQ-F-120" vertex="1" connectable="0">
           <mxGeometry x="668" y="180" width="130" height="270" as="geometry" />
@@ -603,14 +585,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sP9vwEh8VMAq78QCd82c-32" target="AljZzZJW0XcGzfn0RQ-F-209" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-255" y="645" />
-              <mxPoint x="-255" y="665" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sP9vwEh8VMAq78QCd82c-32" value="ESB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162" y="615" width="120" height="60" as="geometry" />
         </mxCell>
@@ -644,9 +618,6 @@
               <mxPoint x="313.75" y="152" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-178" source="AljZzZJW0XcGzfn0RQ-F-186" target="AljZzZJW0XcGzfn0RQ-F-209" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AljZzZJW0XcGzfn0RQ-F-178" source="AljZzZJW0XcGzfn0RQ-F-186" target="AljZzZJW0XcGzfn0RQ-F-208" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -763,11 +734,8 @@
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-207" value="Nginx&lt;br&gt;(1.22.1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="AljZzZJW0XcGzfn0RQ-F-178" vertex="1">
           <mxGeometry x="53.75" y="137" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-208" value="Leewell Data Input Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-178" vertex="1">
+        <mxCell id="AljZzZJW0XcGzfn0RQ-F-208" value="Leewell Data Transport Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-178" vertex="1">
           <mxGeometry x="395" y="110" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-209" value="Leewell Feature Data Handle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AljZzZJW0XcGzfn0RQ-F-178" vertex="1">
-          <mxGeometry x="395" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sP9vwEh8VMAq78QCd82c-154" value="HTTP[S]&lt;br&gt;access" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-175" y="345" width="120" height="60" as="geometry" />
@@ -901,14 +869,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AljZzZJW0XcGzfn0RQ-F-62" target="sP9vwEh8VMAq78QCd82c-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="195" />
-              <mxPoint x="110" y="645" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AljZzZJW0XcGzfn0RQ-F-105" target="sP9vwEh8VMAq78QCd82c-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -917,26 +877,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AljZzZJW0XcGzfn0RQ-F-106" target="sP9vwEh8VMAq78QCd82c-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="695" />
-              <mxPoint x="110" y="645" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AljZzZJW0XcGzfn0RQ-F-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AljZzZJW0XcGzfn0RQ-F-151" target="sP9vwEh8VMAq78QCd82c-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="1165" />
-              <mxPoint x="110" y="645" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AljZzZJW0XcGzfn0RQ-F-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AljZzZJW0XcGzfn0RQ-F-152" target="sP9vwEh8VMAq78QCd82c-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="1205" />
               <mxPoint x="110" y="645" />
             </Array>
           </mxGeometry>
